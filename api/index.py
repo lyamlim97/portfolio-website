@@ -17,7 +17,7 @@ projects = [
         'hero': 'img/personal-finance.png',
         'categories': ['python', 'mongodb', 'writing'],
         'slug': 'microblog',
-        'prod': '',
+        'prod': 'http://microblog-lyamlim97.vercel.app/',
     }
 ]
 
