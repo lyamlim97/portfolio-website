@@ -18,6 +18,14 @@ projects = [
         'categories': ['python', 'mongodb', 'writing'],
         'slug': 'microblog',
         'prod': 'https://microblog-lyamlim.vercel.app/',
+    },
+    {
+        'name': 'Dream app with OpenAI DALL-E 2',
+        'thumb': 'img/dall-e2.png',
+        'hero': 'img/dall-e2.png',
+        'categories': ['python', 'DALL-E 2', 'OpenAI'],
+        'slug': 'dream',
+        'prod': 'https://dream-lyamlim97.vercel.app/',
     }
 ]
 
